@@ -797,4 +797,4 @@ parametros3 <- list(
 
 invoke_map(aplic_fun, parametros3) # Argumentos fixos entrariam na sequência
 
-# Fim!
+# Fim
